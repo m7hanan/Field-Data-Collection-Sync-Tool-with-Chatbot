@@ -10,6 +10,10 @@ The frontend is designed to be **responsive, simple, and professional**.
 ## 🎨 Frontend Design
 
 Below are the core **UI components** of our system:
+ user login and signup
+ 
+<img width="1137" height="740" alt="Screenshot 2025-09-29 154156" src="https://github.com/user-attachments/assets/a9eb875c-acb0-4ac8-9ee3-9a313d8b9b0d" />
+<img width="828" height="806" alt="Screenshot 2025-09-29 154225" src="https://github.com/user-attachments/assets/5fac6e3d-ccde-4727-8948-ad4e3ba9df5d" />
 
 ### 1️⃣ Dashboard
 The main dashboard provides quick access to **forms, records, and chatbot**.  
